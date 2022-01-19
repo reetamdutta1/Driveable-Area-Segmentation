@@ -1,14 +1,6 @@
 
 # Drivable Area Segmentation
 
-## Members
-- Akash Ram
-- Rajesh Kumar
-- Aaishu Agarwal
-- Md. Riyan Alam
-
-
-
 ## Abstract
 
 This project deals with the semantic segmentation of a road image using Fully Convolutional Networks(FCN). This project is an example of the technology used by self driving cars. The area of the road through which the self driving car can traverse is highlighted. We use KITTI dataset and a VGG16 pre-trained model to train our own model to produce prediction.  
